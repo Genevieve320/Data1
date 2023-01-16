@@ -14,6 +14,6 @@ Name: Los Angeles Transit Stops, April 2020
 
 Description: an ARCGIS map that shows the data from each Metro bus stop and the number of ridership on the weekdays and weekends in April 2020. This map is unique because it tracks every single metro bus stop and how many people get on and off and shows peak riderships on different points on the map. This data can be very useful to illustrating the exact areas in Los Angeles of highest ridership, as well as visualizing the use of different bus lines throughout the city. This can be used in comparison to the dataset above to see where there is TODs being built versus the reality of high volume transit use.
 
-Link to [source](https://la-metro.maps.arcgis.com/apps/Minimalist/index.html?appid=1fd006edf4cc446cad245c72241afba5)
+Link to [source](https://la-metro.maps.arcgis.com/home/item.html?id=1fd006edf4cc446cad245c72241afba5)
 
-Link to 
+Link to [map](https://github.com/Genevieve320/Data1/blob/main/Transit%20Stops)
